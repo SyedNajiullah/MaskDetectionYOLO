@@ -31,8 +31,7 @@ Inorder to acces the dataset I have used use you API key in the roboflow API.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
+    git clone https://github.com/SyedNajiullah/MaskDetectionYOLO.git
     ```
 
 2.  **Install Dependencies:**
